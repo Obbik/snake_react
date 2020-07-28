@@ -1,0 +1,2 @@
+.snake-container{width:500px;height:500px;position:relative;border:1px solid #000;margin:50px auto;padding:2px}.snake{position:absolute;width:20px;height:20px;padding:2px;background-color:#0ff}.button,.snake{box-sizing:border-box}.button{position:relative;top:550px;left:50%}.snake-food{position:absolute;width:20px;height:20px;box-sizing:border-box;padding:2px;background-color:red}
+/*# sourceMappingURL=main.f552b6b4.chunk.css.map */
